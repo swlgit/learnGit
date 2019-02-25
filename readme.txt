@@ -1,1 +1,1 @@
-new config clone
+config
