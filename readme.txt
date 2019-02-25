@@ -1,3 +1,3 @@
 
-config dev
+config dev master
 
